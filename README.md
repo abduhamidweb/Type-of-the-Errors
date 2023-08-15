@@ -10,7 +10,7 @@ console.log(x);
 // Notogri syntax - aylana belgisi qoyildi
 function sayHello()
 {
-  console.log("Salom");
+  console.log("Salom"); 
 }
 
 // Notogri syntax - ozgaruvchining nomi notogri
